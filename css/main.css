@@ -847,7 +847,7 @@ section::after {
 }
 
 .navbar-default {
-	position: relative;
+	position: absolute;
 	top: 0px;
 	background-color: transparent;
 	border: none;
