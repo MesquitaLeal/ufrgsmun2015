@@ -1,0 +1,19 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'start' ]
+2 info using npm@1.3.11
+3 info using node@v0.12.1
+4 error Error: ENOENT, open '/Library/WebServer/Documents/ufrgsmun2015/package.json'
+4 error     at Error (native)
+5 error If you need help, you may report this log at:
+5 error     <http://github.com/isaacs/npm/issues>
+5 error or email it to:
+5 error     <npm-@googlegroups.com>
+6 error System Darwin 14.1.0
+7 error command "node" "/usr/local/bin/npm" "start"
+8 error cwd /Library/WebServer/Documents/ufrgsmun2015
+9 error node -v v0.12.1
+10 error npm -v 1.3.11
+11 error path /Library/WebServer/Documents/ufrgsmun2015/package.json
+12 error code ENOENT
+13 error errno -2
+14 verbose exit [ -2, true ]

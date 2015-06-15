@@ -1,0 +1,16 @@
+Cor fonte menu - #D6C5AA R214 G197 B170
+Fonte dk semarang
+
+Fundo icones - #B7A298 R183 G162 B152
+
+Fundo quadrado destaque - #E5DFDA R229 G223 B218
+
+Fundo bottom cinza mapa site - #606566 R96 G101 B102
+
+Fundo bottom extremo - #181A1C R24 G26 B28
+
+
+///Location
+
+fundo 1: rgba(162, 171, 170, 0.6)
+fundo 2: rgba(117, 135, 137, 0.8)
