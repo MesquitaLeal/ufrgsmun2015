@@ -62,11 +62,11 @@
             </ul>
         </div>
         <div class="col-md-2">
-            <img class="logo-footer" src="images/logo_footer" alt="" />
+            <img class="logo-footer" src="images/logo_footer.png" alt="" />
         </div>
     </div>
     <div class="row footer-copyright">
-        <p>UFRGSMUN 2015</p>
-        <p>website developed by <a href="mailto:mesquitaleal@gmail.com">Marcelo Leal</a> and <a href="mailto:#">Joana Oliveira</a></p>
+        <br/>
+        <p>website developed by <a href="mailto:mesquitaleal@gmail.com">Marcelo Leal</a> and <a href="mailto:joanao.oliveira@gmail.com">Joana Oliveira</a></p>
     </div>
 </footer>

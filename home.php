@@ -7,7 +7,7 @@
 <section id="tab-section">
 	<div class="row" >
 		<ul id="tabs" class="nav nav-tabs nav-justified" data-tabs="tabs">
-	        <li class="active"><a href="#promo" data-toggle="tab"><img src="images/video_purple.png" /><br/><span>UFRGSMUN 2015</span></a></li>
+	        <li class="active"><a href="#promo" data-toggle="tab"><img src="images/video_purple.png" class="img-purple"/><br/><span>UFRGSMUN 2015</span></a></li>
 	        <li><a href="#apply" data-toggle="tab"><img src="images/apply_purple.png" /><br/><span>Apply</span></a></li>
 	        <li><a href="#guides" data-toggle="tab"><img src="images/guides_purple.png" /><br/><span>Study guides</span></a></li>
 	        <li><a href="#matrix" data-toggle="tab"><img src="images/matrix_purple.png" /><br/><span>Country Matrix</span></a></li>
@@ -25,39 +25,39 @@
 				</div>
 	        </div>
 	        <div class="tab-pane" id="apply">
-	            <p>Orange</p>
+	            <h6>Soon</h6>
 	        </div>
 	        <div class="tab-pane" id="guides">
-	            <p>Yellow</p>
+				<h6>Soon</h6>
 	        </div>
 	        <div class="tab-pane" id="matrix">
-	            <p>Green</p>
+				<h6>Soon</h6>
 	        </div>
 	        <div class="tab-pane" id="dates">
 				<div class="row">
 					<div class="col-md-2">
 						<p>jun<br />25</p>
-						<p>Abertura do edital de benefícios</p>
+						<p>Registration opens for the Fee Waiver</p>
 					</div>
 					<div class="col-md-2">
 						<p>aug<br />08</p>
-						<p>Abertura do edital de benefícios</p>
+						<p>Release of the Country Matrix</p>
 					</div>
 					<div class="col-md-2">
 						<p>aug<br />15</p>
-						<p>Abertura do edital de benefícios</p>
+						<p>Registration opens for the FORM A/ ILC FORM / IPC FORM</p>
 					</div>
 					<div class="col-md-2">
 						<p>sep<br />30</p>
-						<p>Abertura do edital de benefícios</p>
+						<p>Release of the Study Guides on the website</p>
 					</div>
 					<div class="col-md-2">
 						<p>oct<br />03</p>
-						<p>Abertura do edital de benefícios</p>
+						<p>Registration opens for the FORM B</p>
 					</div>
 					<div class="col-md-2">
 						<p>oct<br />30</p>
-						<p>Abertura do edital de benefícios</p>
+						<p>UFRGSMUN 2015</p>
 					</div>
 				</div>
 	        </div>
