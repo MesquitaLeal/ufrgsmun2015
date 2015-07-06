@@ -1,0 +1,49 @@
+<div class="committees">
+    <div class="row orange-70 content">
+        <div class="breadcrumb">
+            <p>home > committees > unhrc</p>
+        </div>
+        <div class="section-title">
+            <h2>United Human Rights Council</h2>
+        </div>
+    </div>
+    <div class="row orange-50 section-p content">
+        <div class="col-lg-12">
+            <p>The United Human Rights Council was stablished by the General Assembly in 2006, in replacement of the Commission on Human Rights. Being a subsidiary body of the latter, this one holds the responsibility of electing its 47 members, for three-year terms, on equitable regional distribution. Resolution 60/251.8, which created the UNHRC, states that "members elected to the Council shall uphold the highest standards in the promotion and protection of human rights".</p>
+	        <p>Although the Council’s resolutions are not binding, it is the most important international organ responsible for coordinating politics among countries and creating international standards on human rights. Its political and social contribution is incommensurable. This year, the delegates of this committee are invited to debate on the states’ obligation and public policies on gender perspectives and urban development.</p>
+        </div>
+    </div>
+
+    <div class="row orange section-p content">
+        <div class="col-md-6">
+            <h6>Topic A<br/>Discussing Conflict in a Gendered Perspective:<br/>Women and the reform of the International Security Sector</h6>
+            <p>Since the creation of the United Nations, it is safe to assume that the nature of warfare has changed. The development of new armaments and the increased targeting of civilians comes to attention. In said group of civilians, women suffer an inordinate amount of impact, particularly in the form of conflict-related sexual violence (CRSV), which refers to violent acts of sexual nature such as rape, sexual slavery, mutilation and strip searches. The occurrence of these types of violence is related to the belief that undisciplined militaries, police forces and other armed groups who commit said actions can act with impunity (PKSOI, 2014) . </p>
+	        <p>Even though it seems natural to assume that the only way of diminishing and, eventually, ceasing violence against women is to include them in the strategic and politic decisions related to warfare, most women are still considered under qualified to deal in the matters of war or even post-conflict peace building, having their legitimacy questioned. </p>
+	        <p>Fifteen years ago, the United Nations Security Council (UNSC) unanimously adopted Resolution 1325. Known as “the women resolution”, it called for all actors – state, UN, and non state – to support women’s participation in decision-making related to the prevention, management and resolution of conflict (MIT, 2010). Groundbreaking, the resolution was the first systematic insistence on the interconnectedness between gender and peace and security concerns – and asked for change in three distinctly different ways, being those the increasing of representation and active participation of women at all levels in national, regional and international institutions and mechanisms dealing with the many stages of conflict; the inclusion of a gender perspective in the planning and implementation of peace operations and negotiations, including gender-sensitive training of personnel; and finally, for the increasing attention to the protection of women from gender-based violence and the end of impunity. </p>
+	        <p>For all of its status as a landmark international regulation, the resolution has been criticized by feminists for problems like gender essentialism – or the portrayal of women as perpetual victims and the annulment of their agency in both bring about and stopping violence (Sheperd, 2009). Women and children tend to be illustrated as victims to the brutality of war violence. Alas, the assumption that women are innately peaceful is still constantly used as argument for the non-participation of women in warfare decisions. Some also argue that the segregation of women’s rights from other peace and security issues tends to sideline women while institutions remain male-dominated systems. </p>
+	        <p>The main criticism of the UNSCR 1325, however, lies on the fact that, since the 2000s, there is little evidence of its impacts in conflict-affected countries. Progress is seen mostly in the increase of women’s political participation, but there are still many barriers to be surpassed for the inclusion of women in the decisive matters related to global security (Nawa, 2011). It is observed that non-state and opposition movements have been more amenable to addressing issues of gender inequality in warfare than established governments. </p>
+	        <p>At the United Nations Human Rights Council, delegates are called upon addressing the problems of gender inequality, gender essentialism and the exclusion of women from important decisions related to peace and security. A review of practices adopted by each country and actions to improve proactivity and collective work related to the matter done by agencies such as UN Women, UNDPA and UNDP is also intended.</p>
+            <p class="references">
+                References: MIT Center for International Studies. What the Women Say: Participation and UNSCR 1325. Cambridge, Massassuchets, 2010.
+                | Nawa, Pretti. Resolution 1325: Evolution of Gender Perspective in UN Peacekeeping Operations. Journal of Defence Studies, Vol. 5, No. 1, 2011.
+                | Peacekeeping and Stability Operations Institute. Preparing to Prevent: Conflict-Related Sexual Violence Mitigation Scenario-Based Training. US Army War College, Carlisle, Pennsylvania, 2014.
+                | Sheperd, Laura J. Gender, Violence and Global Politics: Contemporary Debates in Feminist Security Studies. Political Studies Review, Vol. 7, pp. 208-219, 2009.
+            </p>
+        </div>
+        <div class="col-md-6">
+            <h6>Topic B<br/>The Right to Adequate Housing:<br/>Constraints of Social Segregation</h6>
+            <p>Over a billion people are estimated to be inadequately housed in the world, living in overcrowded slums and informal settlements or under conditions that do not take human rights into account (OHCHR 2009). Such a deprivation of rights render these people socially discriminated and segregated, and may even generate a “cumulative disadvantage” when these groups are of black or other minority ethnicity (Bolt, Phillips and Van Kempen 2010).</p>
+	        <p>The concept of adequate housing cannot be understood simply as four walls and a roof. According to the United Nations Committee on Economic, Social and Cultural Rights (CESCR), it includes not only the accommodation itself, but also its surroundings, which must comprise the infrastructure necessary to uphold certain rights (such as access to work, education and healthcare services) and be acceptable in a way that safeguards the health of its residents (CESCR 1991). After all, it is the right to live somewhere in security, peace and dignity. </p>
+	        <p>For the aforementioned reasons, housing problems lie at the center of a web of social exclusion. There is a close link between low levels of education, low incomes, ethnic discrimination, poor health and poor living conditions. Social segregation prevents marginalized people from upward mobility and acquiring better residence conditions. Conversely, inadequate housing prevents people from reaching social inclusion, by depriving them of access to basic social assistance, public services and transport, employment and of exercising their political rights (Ringelheim and Bernard 2013). </p>
+	        <p>States have the primary obligation to protect and promote the right to adequate housing on the basis of nondiscrimination. They must also, at a minimum, show that they are making every possible effort in order to protect and promote this right, adopting all appropriate means to achieve its integrity, particularly legislative measures. The role of international assistance, although not a substitute for domestic obligations, is of major relevance if a State is unable to give effect to economic, social and cultural rights on its own. Besides, States have the obligation to ensure that non-State actors do not infringe on the right to adequate housing. On the contrary, political efforts in partnership with civil society and the private sector must be fostered in order to tackle this issue (OHCHR 2009). </p>
+	        <p>At the United Nations Human Rights Council, delegates are called upon addressing the problem of inadequate housing and the social segregation, seeking to share and formulate public policies targeted not only to expand adequate housing stocks, but also and mainly to promote social mixing, equality and integration.</p>
+            <p class="references">
+                References: Bolt, Gideon, Deborah Phillips and Ronald Van Kempen. 2010. “Housing Policy, (De)segregation and Social Mixing: An International Perspective.” Housing Studies 25:2, 129-135. Accessed February 7, 2015. doi: 10.1080/02673030903564838.
+                | Committee on Economic, Social, and Cultural Rights (CESCR). United Nations. “General comment No. 4: The right to adequate housing (E/1992/23).” 1991.
+                | Office of the United Nations High Commissioner for Human Rights (OHCHR). United Nations. “The Right to Adequate Housing.” Fact Sheet No. 21/Rev.1. 2009. Available at: http://www.ohchr.org/Documents/Publications/FS21_rev_1_Housing_en.pdf. Accessed 7 February 2015.
+                | Ringelheim, Julie, and Nicolas Bernard. “Discrimination in Housing.” European Commission. Accessed 8 February 2015. doi:10.2838/93456. 
+
+            </p>
+        </div>
+    </div>
+</div>
