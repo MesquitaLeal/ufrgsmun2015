@@ -1,4 +1,10 @@
-<nav id="nav-header" class="navbar navbar-default navbar-fixed-top" role="navigation">
+<?php
+    if ($_GET['page'] == '')
+        echo '<nav id="nav-header" class="navbar navbar-default navbar-fixed-top" role="navigation">';
+    else
+        echo '<nav id="nav-header-int" class="navbar navbar-default navbar-fixed-top" role="navigation">';
+?>
+
       <div class="container-fluid">
 
           <!--<div class="navbar-fixed-top navbar-top col-md-12">
@@ -17,7 +23,12 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php"><img src="images/logo_brand.png" width="80px" /></a>
+            <?php
+                if ($_GET['page'] == '')
+                    echo '<a class="navbar-brand" href="index.php"><img src="images/logo_brand.png" width="80px"/></a>';
+                else
+                    echo '<a class="navbar-brand" href="index.php"><img src="images/logo_color.png" width="120px"/></a>';
+            ?>
           </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
@@ -28,10 +39,10 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a href="?page=about&section=mun">What is a MUN?</a></li>
-                        <li><a href="?page=about&section=meet">Meet Us</a></li>
+                        <!--<li><a href="?page=about&section=meet">Meet Us</a></li>
                         <li><a href="?page=about&section=history">Our History</a></li>
                         <li><a href="?page=about&section=projects">Partner Projects</a></li>
-                        <li><a href="?page=about&section=partners">Sponsors</a></li>
+                        <li><a href="?page=about&section=partners">Sponsors</a></li>-->
                     </ul>
                 </li>
                 <li class="dropdown">
@@ -56,6 +67,7 @@
                         Apply <i class="fa fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu">
+                        <li><a href="#">Soon</a></li>
                         <!--
                         <li><a href="#">Fees and dates</a></li>
                         <li><a href="#">Payment</a></li>
@@ -75,14 +87,15 @@
                         Committees <i class="fa fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu">
-                        <!--<li><a href="?page=committees&section=adb">ADB</a></li>
+                        <li><a href="?page=committees&section=apec">APEC</a></li>
+                        <li><a href="?page=committees&section=cjtf">CJTF</a></li>
+                        <li><a href="?page=committees&section=cosiplan">COSIPLAN</a></li>
                         <li><a href="?page=committees&section=disec">DISEC</a></li>
-                        <li><a href="?page=committees&section=icj">ICJ</a></li>
+                        <li><a href="?page=committees&section=ilc">ILC</a></li>
                         <li><a href="?page=committees&section=ipc">IPC</a></li>
+                        <li><a href="?page=committees&section=uacps">UACPS</a></li>
+                        <li><a href="?page=committees&section=unhrc">UNHRC</a></li>
                         <li><a href="?page=committees&section=unsc">UNSC</a></li>
-                        <li><a href="?page=committees&section=wec">WEC</a></li>
-                        <li><a href="?page=committees&section=wsis">WSIS</a></li>
-                        <li><a href="?page=committees&section=zopacas">ZOPACAS</a></li>-->
                     </ul>
                 </li>
                 <li class="dropdown">
@@ -90,14 +103,15 @@
                         Preparation <i class="fa fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu">
+                        <li><a href="#">Soon</a></li>
                         <!--<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
                         <li><a href="?page=preparation&section=logistics">Logistics</a></li>
                         <li><a href="?page=preparation&section=study">Study Guides</a></li>
                         <li><a href="?page=preparation&section=handbook">Handbook</a></li>
                         <li><a href="?page=preparation&section=easyHandbook">Easy Handbook</a></li>
                         <li><a href="?page=preparation&section=paper">Position Paper</a></li>
-                        <li><a href="?page=preparation&section=award">Award Policy</a></li>-->
-                        <li><a href="?page=preparation&section=links">Useful links</a></li>
+                        <li><a href="?page=preparation&section=award">Award Policy</a></li>
+                        <li><a href="?page=preparation&section=links">Useful links</a></li>-->
                     </ul>
                 </li>
             </ul>

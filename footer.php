@@ -4,10 +4,10 @@
             <p>About Us</p>
             <ul class="footer">
                 <li><a href="?page=about&section=mun">What is a MUN?</a></li>
-                <li><a href="?page=about&section=meet">Meet Us</a></li>
+                <!--<li><a href="?page=about&section=meet">Meet Us</a></li>
                 <li><a href="?page=about&section=history">Our History</a></li>
                 <li><a href="?page=about&section=projects">Partner Projects</a></li>
-                <li><a href="?page=about&section=partners">Sponsors</a></li>
+                <li><a href="?page=about&section=partners">Sponsors</a></li>-->
             </ul>
         </div>
         <div class="col-md-2">
@@ -25,6 +25,7 @@
         <div class="col-md-2">
             <p>Apply</p>
             <ul class="footer">
+                <li><a href="#">Soon</a></li>
                 <!--<li><a href="?page=apply&section=register">How to register</a></li>
                 <li><a href="?page=apply&section=infographic">Quick Guide</a></li>
                 <li><a href="?page=apply&section=countries">Country Matrix</a></li>
@@ -38,27 +39,29 @@
         <div class="col-md-2">
             <p>Committees</p>
             <ul class="footer">
-                <!--<li><a href="?page=committees&section=adb">ADB</a></li>
+                <li><a href="?page=committees&section=apec">APEC</a></li>
+                <li><a href="?page=committees&section=cjtf">CJTF</a></li>
+                <li><a href="?page=committees&section=cosiplan">COSIPLAN</a></li>
                 <li><a href="?page=committees&section=disec">DISEC</a></li>
-                <li><a href="?page=committees&section=icj">ICJ</a></li>
+                <li><a href="?page=committees&section=ilc">ILC</a></li>
                 <li><a href="?page=committees&section=ipc">IPC</a></li>
+                <li><a href="?page=committees&section=uacps">UACPS</a></li>
+                <li><a href="?page=committees&section=unhrc">UNHRC</a></li>
                 <li><a href="?page=committees&section=unsc">UNSC</a></li>
-                <li><a href="?page=committees&section=wec">WEC</a></li>
-                <li><a href="?page=committees&section=wsis">WSIS</a></li>
-                <li><a href="?page=committees&section=zopacas">ZOPACAS</a></li>-->
             </ul>
         </div>
         <div class="col-md-2">
             <p>Preparation</p>
             <ul class="footer">
+                <li><a href="#">Soon</a></li>
                 <!--<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
                 <li><a href="?page=preparation&section=logistics">Logistics</a></li>
                 <li><a href="?page=preparation&section=study">Study Guides</a></li>
                 <li><a href="?page=preparation&section=handbook">Handbook</a></li>
                 <li><a href="?page=preparation&section=easyHandbook">Easy Handbook</a></li>
                 <li><a href="?page=preparation&section=paper">Position Paper</a></li>
-                <li><a href="?page=preparation&section=award">Award Policy</a></li>-->
-                <li><a href="?page=preparation&section=links">Useful links</a></li>
+                <li><a href="?page=preparation&section=award">Award Policy</a></li>
+                <li><a href="?page=preparation&section=links">Useful links</a></li>-->
             </ul>
         </div>
         <div class="col-md-2">

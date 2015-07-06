@@ -67,10 +67,11 @@
 		</div>
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
 		<script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
-		<script type="text/javascript">
-			if ((window.location.href == 'http://localhost/ufrgsmun2015/') || (window.location.href == 'http://localhost/ufrgsmun2015/index.php'))
-				document.getElementById('nav-header').style.setProperty ('background', 'transparent');
-		</script>
+		<!--<script type="text/javascript">
+			if ((window.location.href == 'http://localhost/ufrgsmun2015/') || (window.location.href == 'http://localhost/ufrgsmun2015/index.php')) {
+				document.getElementById('nav-header').style.setProperty('background', 'transparent');
+			}
+		</script>-->
 	</body>
 
 </html>

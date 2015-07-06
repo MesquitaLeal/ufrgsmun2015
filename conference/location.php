@@ -1,34 +1,44 @@
-    <div class="breadcrumb">
-        <p>home > conference > location</p>
-    </div>
-    <div class="section-title">
-        <h2>Location</h2>
-    </div>
-    <div class="row blue content">
-        <div class="col-md-5">
-            <p>
-                UFRGSMUN is going to to take place once again at Plaza São Rafael Hotel.
-                It is one of the most famous hotels of Porto Alegre, due to its high quality
-                services and room diversity for events, such as expositions, conferences
-                and weddings. Because of that it offers an appropriate environment to
-                host UFRGSMUN.
-            </p>
-            <p>
-                Plaza São Rafael is well located in downtown Porto Alegre, being 15 minutes
-                distant to the Salgado Filho International Airport. It is near to commercial
-                areas, shopping centres and restaurants. In a walking distance to the
-                financial and administrative centers of both the city and the State, to
-                the Federal University of Rio Grande do Sul (UFRGS) and to many of the
-                most famous tourist spots of the city. The hotel’s localization will allow
-                delegates to explore Porto Alegre and discover its best. Furthermore, being
-                in the heart of the downtown area, Plaza São Rafael is also convenient for
-                delegates who reside in Porto Alegre.
-            </p>
+<div id="location">
+    <div class="row gray-70 content">
+        <div class="breadcrumb">
+            <p>home > conference > location</p>
         </div>
-        <div class="address col-md-7">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.309827927393!2d-51.221512!3d-30.027967999999944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951979081d9ee991%3A0xc5dd42e6069272d3!2sHotel+Plaza+S%C3%A3o+Rafael!5e0!3m2!1spt-BR!2sbr!4v1399864004714" width="100%" height="450" frameborder="0" style="border:0"></iframe>
+        <div class="section-title">
+            <h2>Location</h2>
         </div>
     </div>
+
+    <!--<svg class="gray-70-svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="40" viewBox="0 0 100 102" preserveAspectRatio="none">
+        <path d="M0 0 L50 100 L100 0 Z"></path>
+    </svg>-->
+
+    <div class="row gray-50 section-p content">
+        <div class="col-md-6">
+            <p>
+                    UFRGSMUN is going to to take place once again at Plaza São Rafael Hotel.
+                    It is one of the most famous hotels of Porto Alegre, due to its high quality
+                    services and room diversity for events, such as expositions, conferences
+                    and weddings. Because of that it offers an appropriate environment to
+                    host UFRGSMUN.
+            </p>
+            <p>
+                    Plaza São Rafael is well located in downtown Porto Alegre, being 15 minutes
+                    distant to the Salgado Filho International Airport. It is near to commercial
+                    areas, shopping centres and restaurants. In a walking distance to the
+                    financial and administrative centers of both the city and the State, to
+                    the Federal University of Rio Grande do Sul (UFRGS) and to many of the
+                    most famous tourist spots of the city. The hotel’s localization will allow
+                    delegates to explore Porto Alegre and discover its best. Furthermore, being
+                    in the heart of the downtown area, Plaza São Rafael is also convenient for
+                    delegates who reside in Porto Alegre.
+            </p>
+        </div>
+        <div class="col-md-6">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.309827927393!2d-51.221512!3d-30.027967999999944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951979081d9ee991%3A0xc5dd42e6069272d3!2sHotel+Plaza+S%C3%A3o+Rafael!5e0!3m2!1spt-BR!2sbr!4v1399864004714" width="100%" height="350" frameborder="0" style="border:0"></iframe>
+        </div>
+    </div>
+</div>
+
     <div class="row gray content" id="poa">
         <div class="col-md-4">
             <h3>Porto Alegre</h3>
