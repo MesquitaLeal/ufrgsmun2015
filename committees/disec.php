@@ -1,7 +1,7 @@
 <div class="committees">
     <div class="row orange-70 content">
         <div class="breadcrumb">
-            <p>home > committees > disep</p>
+            <p>home > committees > disec</p>
         </div>
         <div class="section-title double-line">
             <h2>Disarmament and International <br/> Security Committee</h2>

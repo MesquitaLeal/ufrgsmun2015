@@ -17,10 +17,10 @@
 	        <div class="tab-pane active" id="promo">
 				<div class="row">
 					<div class="col-md-6">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/CnGOfH-iAmc" frameborder="0" allowfullscreen></iframe>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/CnGOfH-iAmc?controls=1;showinfo=0;modestbranding=1" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<div class="col-md-6">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/76aFwUroxu4" frameborder="0" allowfullscreen></iframe>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/76aFwUroxu4?controls=1;showinfo=0;modestbranding=1" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 	        </div>

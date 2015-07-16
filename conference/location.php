@@ -1,4 +1,5 @@
 <div id="location">
+    <!--<div class="loc-photo">-->
     <div class="row gray-70 content">
         <div class="breadcrumb">
             <p>home > conference > location</p>
@@ -37,6 +38,7 @@
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.309827927393!2d-51.221512!3d-30.027967999999944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951979081d9ee991%3A0xc5dd42e6069272d3!2sHotel+Plaza+S%C3%A3o+Rafael!5e0!3m2!1spt-BR!2sbr!4v1399864004714" width="100%" height="350" frameborder="0" style="border:0"></iframe>
         </div>
     </div>
+    <!--</div>-->
 </div>
 
     <div class="row gray content" id="poa">

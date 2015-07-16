@@ -4,12 +4,12 @@
             <p>home > committees > unhrc</p>
         </div>
         <div class="section-title">
-            <h2>United Human Rights Council</h2>
+            <h2>United Nations Human Rights Council</h2>
         </div>
     </div>
     <div class="row orange-50 section-p content">
         <div class="col-lg-12">
-            <p>The United Human Rights Council was stablished by the General Assembly in 2006, in replacement of the Commission on Human Rights. Being a subsidiary body of the latter, this one holds the responsibility of electing its 47 members, for three-year terms, on equitable regional distribution. Resolution 60/251.8, which created the UNHRC, states that "members elected to the Council shall uphold the highest standards in the promotion and protection of human rights".</p>
+            <p>The United Nations Human Rights Council was stablished by the General Assembly in 2006, in replacement of the Commission on Human Rights. Being a subsidiary body of the latter, this one holds the responsibility of electing its 47 members, for three-year terms, on equitable regional distribution. Resolution 60/251.8, which created the UNHRC, states that "members elected to the Council shall uphold the highest standards in the promotion and protection of human rights".</p>
 	        <p>Although the Council’s resolutions are not binding, it is the most important international organ responsible for coordinating politics among countries and creating international standards on human rights. Its political and social contribution is incommensurable. This year, the delegates of this committee are invited to debate on the states’ obligation and public policies on gender perspectives and urban development.</p>
         </div>
     </div>
@@ -31,7 +31,7 @@
             </p>
         </div>
         <div class="col-md-6">
-            <h6>Topic B<br/>The Right to Adequate Housing:<br/>Constraints of Social Segregation</h6>
+            <h6>Topic B<br/>Urban Development:<br/>Consequences to the Right to Adequate Housing</h6>
             <p>Over a billion people are estimated to be inadequately housed in the world, living in overcrowded slums and informal settlements or under conditions that do not take human rights into account (OHCHR 2009). Such a deprivation of rights render these people socially discriminated and segregated, and may even generate a “cumulative disadvantage” when these groups are of black or other minority ethnicity (Bolt, Phillips and Van Kempen 2010).</p>
 	        <p>The concept of adequate housing cannot be understood simply as four walls and a roof. According to the United Nations Committee on Economic, Social and Cultural Rights (CESCR), it includes not only the accommodation itself, but also its surroundings, which must comprise the infrastructure necessary to uphold certain rights (such as access to work, education and healthcare services) and be acceptable in a way that safeguards the health of its residents (CESCR 1991). After all, it is the right to live somewhere in security, peace and dignity. </p>
 	        <p>For the aforementioned reasons, housing problems lie at the center of a web of social exclusion. There is a close link between low levels of education, low incomes, ethnic discrimination, poor health and poor living conditions. Social segregation prevents marginalized people from upward mobility and acquiring better residence conditions. Conversely, inadequate housing prevents people from reaching social inclusion, by depriving them of access to basic social assistance, public services and transport, employment and of exercising their political rights (Ringelheim and Bernard 2013). </p>
@@ -41,7 +41,7 @@
                 References: Bolt, Gideon, Deborah Phillips and Ronald Van Kempen. 2010. “Housing Policy, (De)segregation and Social Mixing: An International Perspective.” Housing Studies 25:2, 129-135. Accessed February 7, 2015. doi: 10.1080/02673030903564838.
                 | Committee on Economic, Social, and Cultural Rights (CESCR). United Nations. “General comment No. 4: The right to adequate housing (E/1992/23).” 1991.
                 | Office of the United Nations High Commissioner for Human Rights (OHCHR). United Nations. “The Right to Adequate Housing.” Fact Sheet No. 21/Rev.1. 2009. Available at: http://www.ohchr.org/Documents/Publications/FS21_rev_1_Housing_en.pdf. Accessed 7 February 2015.
-                | Ringelheim, Julie, and Nicolas Bernard. “Discrimination in Housing.” European Commission. Accessed 8 February 2015. doi:10.2838/93456. 
+                | Ringelheim, Julie, and Nicolas Bernard. “Discrimination in Housing.” European Commission. Accessed 8 February 2015. doi:10.2838/93456.
 
             </p>
         </div>
