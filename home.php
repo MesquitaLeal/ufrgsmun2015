@@ -37,7 +37,7 @@
 				<div class="row">
 					<div class="col-md-2">
 						<p>jun<br />25</p>
-						<p>Registration opens for the Fee Waiver</p>
+						<p>Registration opens for the <a href="files/Edital-de-Benefícios-UFRGSMUN-2015.pdf">Fee Waiver</a></p>
 					</div>
 					<div class="col-md-2">
 						<p>aug<br />08</p>
