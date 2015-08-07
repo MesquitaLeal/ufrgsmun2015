@@ -31,7 +31,7 @@
 				<h6>Soon</h6>
 	        </div>
 	        <div class="tab-pane" id="matrix">
-				<h6>Soon</h6>
+				<h6>You can check which countries are going to be simulated in which committee in our country/committee matrix. <br/><br/><a href="index.php?page=apply&section=countries">Click here</a></h6>
 	        </div>
 	        <div class="tab-pane" id="dates">
 				<div class="row">

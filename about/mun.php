@@ -1,4 +1,4 @@
-<div id="mun">
+<div id="mun" class="background">
     <div class="row purple-70 content">
         <div class="breadcrumb">
             <p>home > about > mun</p>
@@ -40,6 +40,7 @@
             </p>
         </div>
     </div>
+</div>
     <div class="row purple section-p content">
         <h6>During the preparation<br/>for a Model UN, students:</h6>
         <br/>
@@ -74,4 +75,3 @@
             </div>
     	</div>
     </div>
-</div>

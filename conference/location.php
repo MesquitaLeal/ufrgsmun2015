@@ -1,5 +1,4 @@
-<div id="location">
-    <!--<div class="loc-photo">-->
+<div id="location" class="background">
     <div class="row gray-70 content">
         <div class="breadcrumb">
             <p>home > conference > location</p>
@@ -8,11 +7,9 @@
             <h2>Location</h2>
         </div>
     </div>
-
-    <!--<svg class="gray-70-svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="40" viewBox="0 0 100 102" preserveAspectRatio="none">
-        <path d="M0 0 L50 100 L100 0 Z"></path>
-    </svg>-->
-
+<!--<svg class="gray-70-svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="40" viewBox="0 0 100 102" preserveAspectRatio="none">
+    <path d="M0 0 L50 100 L100 0 Z"></path>
+</svg>-->
     <div class="row gray-50 section-p content">
         <div class="col-md-6">
             <p>
@@ -38,7 +35,6 @@
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.309827927393!2d-51.221512!3d-30.027967999999944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951979081d9ee991%3A0xc5dd42e6069272d3!2sHotel+Plaza+S%C3%A3o+Rafael!5e0!3m2!1spt-BR!2sbr!4v1399864004714" width="100%" height="350" frameborder="0" style="border:0"></iframe>
         </div>
     </div>
-    <!--</div>-->
 </div>
 
     <div class="row gray content" id="poa">
