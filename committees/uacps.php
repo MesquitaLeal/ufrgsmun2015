@@ -1,4 +1,4 @@
-<div id="committees">
+<div class="background" id="uacps">
     <div class="row orange-70 content">
         <div class="breadcrumb">
             <p>home > committees > uacps</p>

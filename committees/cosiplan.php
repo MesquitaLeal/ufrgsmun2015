@@ -1,4 +1,4 @@
-<div id="committees">
+<div class="background" id="cosiplan">
     <div class="row orange-70 content">
         <div class="breadcrumb">
             <p>home > committees > cosiplan</p>
@@ -21,6 +21,7 @@
             </p>
         </div>
     </div>
+</div>
     <div class="row orange section-p content">
             <div class="col-lg-6">
                 <h6>Tópico A: <br/>Reformulação dos Eixos da IIRSA</h6>
@@ -64,4 +65,3 @@
                 </p>
             </div>
     </div>
-</div>

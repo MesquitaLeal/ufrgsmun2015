@@ -1,4 +1,4 @@
-<div class="committees">
+<div class="background" id="unsc">
     <div class="row orange-70 content">
         <div class="breadcrumb">
             <p>home > committees > unsc</p>
@@ -10,9 +10,10 @@
     <div class="row orange-50 section-p content">
         <div class="col-lg-12">
             <p>The UN Security Council is the primary body of the United Nations for maintaining international peace and security. One of the main characteristics of the UNSC, which contrasts with other UN organs, is that it is the only committee whose resolutions are binding upon all member states, regardless if they are current members of the UNSC or not. Moreover, it is also in the Council’s mandate the right to authorize the use of force through peacekeeping operations or military coalitions and also to impose economic and military sanctions, but always as a last resort when all negotiations have failed (especially in the case of military action). Therefore, the UNSC’s first actions when a complaint related to a threat to international peace and security is brought before it is to recommend to the parties to try and reach a peaceful solution. It may also help ceasing of the dispute by investigating or mediating the conflict. The Council has also ordered ceasefires and imposed economic sanctions or collective military embargoes on many occasions in which disputes have led to the use of force. At last, the UNSC may recommend the suspension or expulsion, by the General Assembly, of a Member State that recurrently violates the principles of the UN Charter. This committee is, then, essential for maintaining international peace and security and saving succeeding generations from the scourge of war—the main goal of the United Nations—, while its relevance goes way beyond security and geopolitics, because its decision have effects on the populations directly involved in the conflicts it strives to solve.</p>
-	        <p>The UNSC is formed by fifteen members, of which five are permanent and ten are selected by the General Assembly for two year terms. The five permanent members of the Security Council are China, France, Russian Federation, United Kingdom and United States, and they hold what is commonly known as “veto power”. That means that for any resolution to be approved it needs the concurring vote of the five “great powers”, meaning that if they are against, it will automatically fail. Current temporary members of the UNSC are Angola, Chad, Chile, Jordan, Lithuania, Malaysia, New Zealand, Nigeria, Spain and Venezuela.</p>
+    	    <p>The UNSC is formed by fifteen members, of which five are permanent and ten are selected by the General Assembly for two year terms. The five permanent members of the Security Council are China, France, Russian Federation, United Kingdom and United States, and they hold what is commonly known as “veto power”. That means that for any resolution to be approved it needs the concurring vote of the five “great powers”, meaning that if they are against, it will automatically fail. Current temporary members of the UNSC are Angola, Chad, Chile, Jordan, Lithuania, Malaysia, New Zealand, Nigeria, Spain and Venezuela.</p>
         </div>
     </div>
+</div>
 
     <div class="row orange section-p content">
         <div class="col-md-6">

@@ -1,4 +1,4 @@
-<div class="committees">
+<div class="background" id="unhr">
     <div class="row orange-70 content">
         <div class="breadcrumb">
             <p>home > committees > unhrc</p>
@@ -13,6 +13,7 @@
 	        <p>Although the Council’s resolutions are not binding, it is the most important international organ responsible for coordinating politics among countries and creating international standards on human rights. Its political and social contribution is incommensurable. This year, the delegates of this committee are invited to debate on the states’ obligation and public policies on gender perspectives and urban development.</p>
         </div>
     </div>
+</div>
 
     <div class="row orange section-p content">
         <div class="col-md-6">
@@ -46,4 +47,4 @@
             </p>
         </div>
     </div>
-</div>
+

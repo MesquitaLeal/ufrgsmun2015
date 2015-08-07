@@ -1,4 +1,4 @@
-<div class="committees">
+<div class="background" id="ipc">
     <div class="row orange-70 content">
         <div class="breadcrumb">
             <p>home > committees > ipc</p>
