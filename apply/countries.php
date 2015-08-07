@@ -1,5 +1,5 @@
 <div id="matrix" class="background">
-    <div class="row gray-70 content">
+    <div class="row beige-70 content">
         <div class="breadcrumb">
             <p>home > apply > country matrix</p>
         </div>
@@ -10,7 +10,7 @@
 <!--<svg class="gray-70-svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="40" viewBox="0 0 100 102" preserveAspectRatio="none">
     <path d="M0 0 L50 100 L100 0 Z"></path>
 </svg>-->
-    <div class="row gray-50 section-p content">
+    <div class="row beige-50 section-p content">
         <div class="col-lg-12">
             <p>
                     You can check which countries are going to be simulated in which committee in our country/committee matrix. <!--It is available in this <a href="#">file</a>. A PDF reader is required to open it.-->
@@ -26,13 +26,13 @@
 
 <div>
 
-    <div class="row gray-70 content">
+    <div class="row beige content">
         <div class="col-sm-12 table-responsive">
             <table class="table">
                 <tr>
                     <th>Country*</th>
                     <th>APEC</th>
-                    <th>CJTf</th>
+                    <th>CJTF</th>
                     <th>COSIPLAN</th>
                     <th>DISEC</th>
                     <th>UACPS</th>

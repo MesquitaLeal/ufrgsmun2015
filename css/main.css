@@ -444,6 +444,18 @@ embed {
 	fill: rgba(102, 118, 119, 0.7);
 }
 
+.beige {
+	background-color: rgb(198,175,155);
+}
+
+.beige-50 {
+	background-color: rgba(198,175,155,0.93);
+}
+
+.beige-70 {
+	background-color: rgba(198,175,155,0.7);
+}
+
 .purple-70 {
 	background-color: rgba(114,68,79,0.7);
 }
@@ -1123,13 +1135,19 @@ td:first-child {
 	text-align: left;
 }
 
+.table > tbody > tr > td:nth-child(1) {
+	width:300px;
+	
+}
+
 .table > tbody > tr:nth-child(odd) > th,
 .table > tbody > tr:nth-child(odd) > td {
-	background-color: #004667;
+	background-color: #b3957b;
 }
 
 .table > tbody > tr > td {
 	border-top: 0;
+	background-color: #bda28b;
 
 }
 
