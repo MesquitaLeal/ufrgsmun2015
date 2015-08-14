@@ -164,6 +164,10 @@ Background Images
 	background-image: url('../images/mun.png');	
 }
 
+#register {
+	background-image: url('../images/register.png');
+}
+
 #uacps {
 	background-image: url('../images/uacps.png');	
 }
@@ -176,6 +180,45 @@ Background Images
 	background-image: url('../images/unsc.png');
 }
 
+/*
+======================================
+Apply Section
+====================================== 
+*/
+
+.step-title {
+	font-size: 20px;
+	margin-top: -10px;
+	margin-bottom: 20px;
+}
+
+.step-note {
+	color: #E4CEB7;
+	margin-top: 20px;
+}
+
+.step-box {
+	border: 1px solid #FFFFFF;
+	max-width: 90%;
+	padding: 10px;
+}
+
+.step-box:last-of-type {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.step-box p:nth-of-type(1){
+	float: left;
+}
+
+.step-box p:nth-of-type(2) {
+	margin-left: 250px;
+}
+
+.beige a {
+	color: rgb(240,217,193);
+}
 
 /*
 ======================================
@@ -442,6 +485,16 @@ embed {
 
 .gray-70-svg {
 	fill: rgba(102, 118, 119, 0.7);
+}
+
+.beige-light {
+	background-color: #E4CEB7;
+}
+
+.beige-light h2, 
+.beige-light h3, 
+.beige-light p {
+	color: #565656;
 }
 
 .beige {
