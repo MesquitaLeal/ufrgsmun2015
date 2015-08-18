@@ -39,10 +39,11 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a href="?page=about&section=mun">What is a MUN?</a></li>
+                        <li><a href="?page=about&section=partners">Sponsors</a></li>
                         <!--<li><a href="?page=about&section=meet">Meet Us</a></li>
                         <li><a href="?page=about&section=history">Our History</a></li>
                         <li><a href="?page=about&section=projects">Partner Projects</a></li>
-                        <li><a href="?page=about&section=partners">Sponsors</a></li>-->
+                        -->
                     </ul>
                 </li>
                 <li class="dropdown">
@@ -69,15 +70,15 @@
                     <ul class="dropdown-menu">
                         <!--
                         <li><a href="#">Fees and dates</a></li>
-                        <li><a href="#">Payment</a></li>
+                        <li><a href="#">Payment</a></li>-->
                         <li><a href="?page=apply&section=register">How to register</a></li>
-                        <li><a href="?page=apply&section=infographic">Quick Guide</a></li>-->
+                        <!--<li><a href="?page=apply&section=infographic">Quick Guide</a></li>-->
                         <li><a href="?page=apply&section=countries">Country Matrix</a></li>
                         <!--<li><a href="?page=apply&section=payment">Payment</a></li>
+                        <li><a href="?page=apply&section=formB">Form B</a></li>-->
                         <li><a href="?page=apply&section=formA">Form A</a></li>
-                        <li><a href="?page=apply&section=formB">Form B</a></li>
-                        <li><a href="?page=apply&section=icjForm">ICJ Form</a></li>
-                        <li><a href="?page=apply&section=ipcForm">IPC Form</a></li>-->
+                        <li><a href="?page=apply&section=formIlc">ILC Form</a></li>
+                        <li><a href="?page=apply&section=formIpc">IPC Form</a></li>
                     </ul>
 
                 </li>
