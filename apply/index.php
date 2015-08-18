@@ -23,12 +23,12 @@ switch ($section) {
 		include_once 'apply/formB.php';
 		break;
 
-	case 'icjForm':
-		include_once 'apply/icjForm.php';
+	case 'formIlc':
+		include_once 'apply/formIlc.php';
 		break;
 
-	case 'ipcForm':
-		include_once 'apply/ipcForm.php';
+	case 'formIpc':
+		include_once 'apply/formIpc.php';
 		break;
 
 	case 'infographic':
