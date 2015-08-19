@@ -55,11 +55,11 @@
         <p>Total fees per delegate for regular registration:</p>
         <div class="step-box">
             <p>Full amount:<br/>R$ 130.00</p>
-            <p>Payment deadline:<br/>September 26th</p>
+            <p>Payment deadline:<br/>5 days after filling Form A</p>
         </div>
         <div class="step-box">
             <p>Two installments:<br/>R$ 140.00 (2 x R$ 70.00)</p>
-            <p>Payment deadlines:<br/>September 26th and October 15th</p>
+            <p>Payment deadlines:<br/>5 days after filling Form A and October 10th</p>
         </div>
         <p>When the full amount or the first installment of the payment is received by the Staff, the Head Delegate will receive a confirmation e-mail. Another confirmation e-mail will be sent once the second installment is paid.</p>
         <p class="step-note">NOTE: delegations registering after the regular registration period will have to pay higher fees in order to participate in UFRGSMUN.</p>
