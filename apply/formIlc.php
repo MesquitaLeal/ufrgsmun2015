@@ -1,4 +1,4 @@
-<div id="formIlc" class="background">
+<div id="form" class="background">
     <div class="row beige-70 content">
         <div class="breadcrumb">
             <p>home > apply > ilc form</p>

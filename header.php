@@ -39,10 +39,11 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a href="?page=about&section=mun">What is a MUN?</a></li>
+                        <li><a href="?page=about&section=meet">Meet Us</a></li>
                         <li><a href="?page=about&section=partners">Sponsors</a></li>
-                        <!--<li><a href="?page=about&section=meet">Meet Us</a></li>
-                        <li><a href="?page=about&section=history">Our History</a></li>
                         <li><a href="?page=about&section=projects">Partner Projects</a></li>
+                        <!--
+                        <li><a href="?page=about&section=history">Our History</a></li>
                         -->
                     </ul>
                 </li>
@@ -54,10 +55,10 @@
                         <!--
                         <li><a href="?page=about&section=meet">Calendar</a></li>
                         <li><a href="?page=about&section=social">Social Events</a></li>
-                        <li><a href="?page=conference&section=policies">General Policies</a></li>
                         <li><a href="?page=conference&section=invitation">Invitation Letter</a></li>
-                        <li><a href="?page=conference&section=schedule">Schedule</a></li>
-                        <li><a href="?page=conference&section=dresscode">Dress Code</a></li>-->
+                        <li><a href="?page=conference&section=schedule">Schedule</a></li>-->
+                        <li><a href="?page=conference&section=policies">General Policies</a></li>
+                        <li><a href="?page=conference&section=feesanddates">Fees and Dates</a></li>
                         <li><a href="?page=conference&section=location">Location</a></li>
                         <!--<li><a href="?page=conference&section=accommodation">Accommodation</a></li>
                         <li><a href="?page=conference&section=socialevents">Social Events</a></li>-->

@@ -10,7 +10,7 @@
 	        <li class="active"><a href="#promo" data-toggle="tab"><img src="images/video_purple.png" class="img-purple"/><br/><span>UFRGSMUN 2015</span></a></li>
 	        <li><a href="#apply" data-toggle="tab"><img src="images/apply_purple.png" /><br/><span>Apply</span></a></li>
 	        <li><a href="#guides" data-toggle="tab"><img src="images/guides_purple.png" /><br/><span>Study guides</span></a></li>
-	        <li><a href="#matrix" data-toggle="tab"><img src="images/matrix_purple.png" /><br/><span>Country Matrix</span></a></li>
+	        <li><a href="#country" data-toggle="tab"><img src="images/matrix_purple.png" /><br/><span>Country Matrix</span></a></li>
 	        <li><a href="#dates" data-toggle="tab"><img src="images/dates_purple.png" /><br/><span>Important dates</span></a></li>
 	    </ul>
 		<div id="my-tab-content" class="tab-content">
@@ -30,7 +30,7 @@
 	        <div class="tab-pane" id="guides">
 				<h6>Soon</h6>
 	        </div>
-	        <div class="tab-pane" id="matrix">
+	        <div class="tab-pane" id="country">
 				<h6>You can check which countries are going to be simulated in which committee in our country/committee matrix. <br/><br/><a href="index.php?page=apply&section=countries">Click here</a></h6>
 	        </div>
 	        <div class="tab-pane" id="dates">
