@@ -27,8 +27,8 @@ switch ($section) {
         include_once 'conference/accommodation.php';
         break;
 
-    case 'dresscode':
-        include_once 'conference/dresscode.php';
+    case 'feesanddates':
+        include_once 'conference/feesanddates.php';
         break;
 
     case 'schedule':
