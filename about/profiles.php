@@ -77,7 +77,7 @@
                         'name'=>"Juliana Freitas",
                         'role'=>"Events",
                         'img'=>"jfreitas.png",
-                        'bio'=>"No description available."
+                        'bio'=>"Juliana Figueira Freitas is a student of International Relations at UFRGS in her final year. This year it will be her first UFRGSMUN experience, joining the Administrative Staff. For the last 3 years, she has been involved in the projects UFRGSMUNDI and RIPE (Relações Internacionais para Educadores), as academic and administrative staff. She also is member of the Executive Board of the journal Perspective and works as executive assistant at CEGOV (Centre for International Studies on Government)."
                     ),
                     array(
                         'name'=>"MARIA GABRIELA VIEIRA",
@@ -89,7 +89,7 @@
                         'name'=>"THIAGO CHAGAS",
                         'role'=>"Events",
                         'img'=>"tchagas.png",
-                        'bio'=>"No description available."
+                        'bio'=>"Thiago Schimittz Chagas, member of the administrative staff, is a 6th semester student of International Relations at UFRGS. His first contact with MUN was two years ago at UFRGSMUN, when he represented India in the World Bank. In last year’s edition he participated as Cambodia in the Asian Development Bank. He is also involved in CERI as secretary os culture and leisure. He is also part of the administrative staff of UFRGSMUNDI."
                     ),
                     array(
                         'name'=>"SÉRGIO TESSUTO",

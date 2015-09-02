@@ -765,7 +765,8 @@ embed {
 	margin-bottom: 50px;
 }
 
-.modal-call p:first-child {
+.profile-name {
+	font-family: 'DK', Arial, sans-serif;
 	font-size:1.8rem;
 }
 

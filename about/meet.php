@@ -63,7 +63,7 @@
                                 <div data-toggle="modal" data-target="<?php echo "#" . $organ . renameCommittees($item) . $key;?>">
                                     <img src="<?php echo $path . $value['img'];?>" class="profiles-img">
                                 </div>
-                                <p><?php echo $value['name'];?></p>
+                                <p class="profile-name"><?php echo $value['name'];?></p>
                                 <p><?php echo $value['role'];?></p>
                             </div>
                             <div class="modal fade" id="<?php echo $organ . renameCommittees($item) . $key;?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">

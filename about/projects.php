@@ -12,7 +12,7 @@
             <a href="https://www.facebook.com/pages/BIS-Ufrgsmun-Back-in-School/387300181356414?sk=timeline" class="sponsor-logo"><img src="images/bis.jpg"></a>
         </div>
         <div class="col-sm-4">
-            <a href="http://www.ufrgs.br/ufrgsmundi/" class="sponsor-logo"><img src="images/ufrgsmundi.jpg"></a>
+            <a href="http://www.ufrgs.br/ufrgsmundi/" class="sponsor-logo"><img src="images/ufrgsmundi.png"></a>
         </div>
         <div class="col-sm-4">
             <a href="https://www.facebook.com/CursoRIPE" class="sponsor-logo"><img src="images/ripe.jpg"></a>
@@ -32,7 +32,7 @@
 				</p>
 			</div>
 		</div>
-		<a href="http://www.ufrgs.br/ufrgsmundi/" class="sponsor-logo"><img src="images/ufrgsmundi.jpg"></a>
+		<a href="http://www.ufrgs.br/ufrgsmundi/" class="sponsor-logo"><img src="images/ufrgsmundi.png"></a>
 		<div class="col-sm-4">
 			<div class="project-box">
 				<h3 class="center">UFRGSMUNDI</h3>
