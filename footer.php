@@ -1,6 +1,6 @@
 <footer>
     <div class="row footer-links hidden-xs">
-        <div class="col-md-2">
+        <div class="col-md-2 col-sm-4">
             <p>About Us</p>
             <ul class="footer">
                 <li><a href="?page=about&section=mun">What is a MUN?</a></li>
@@ -12,7 +12,7 @@
                 -->
             </ul>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-2 col-sm-4">
             <p>Conference</p>
             <ul class="footer">
                 <!--
@@ -25,7 +25,7 @@
                 <li><a href="?page=conference&section=socialevents">Social Events</a></li>-->
             </ul>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-2 col-sm-4">
             <p>Apply</p>
             <ul class="footer">
                 <li><a href="?page=apply&section=register">How to register</a></li>
@@ -38,7 +38,7 @@
                 <li><a href="?page=apply&section=formIpc">IPC Form</a></li>
             </ul>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-2 col-sm-4">
             <p>Committees</p>
             <ul class="footer">
                 <li><a href="?page=committees&section=apec">APEC</a></li>
@@ -52,7 +52,7 @@
                 <li><a href="?page=committees&section=unsc">UNSC</a></li>
             </ul>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-2 col-sm-4">
             <p>Preparation</p>
             <ul class="footer">
                 <li><a href="#">Soon</a></li>

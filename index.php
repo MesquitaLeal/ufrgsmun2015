@@ -8,11 +8,11 @@
 		<meta property="og:type" content="website" />
 		<meta property="og:description" content="UFRGSMUN is an academic simulation where the participants act as representatives of the worlds's nations in one of the many organs to be simulated." />
 		<meta property="og:url" content="http://www.ufrgs.br/ufrgsmun/2015/index.php" />
-		<meta property="og:image" content="http://www.ufrgs.br/ufrgsmun/2015/images/ufrgsmun_facebook.jpg" />
-		<link rel="icon" href="images/favicon.ico" />
+		<meta property="og:image" content="http://www.ufrgs.br/ufrgsmun/2015/images/logo_full.png" />
+		<link rel="icon" href="images/favicon.png" />
 		<link type="text/css" rel="stylesheet" href="bootstrap/css/bootstrap.css">
 		<link type="text/css" rel="stylesheet" href="css/normalize.css">
-		<link type="text/css" rel="stylesheet" href="css/main.css">
+		<link type="text/css" rel="stylesheet" href="css/mainNew.css">
 		<script type="text/javascript" src="js/jquery.js"></script>
 	</head>
 

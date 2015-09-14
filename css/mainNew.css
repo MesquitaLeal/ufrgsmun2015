@@ -36,6 +36,12 @@ p {
 	font-family: "Mesmerize", Arial, sans serif;
 }
 
+section {
+	margin-left: -15px;
+	margin-right: -15px;
+	overflow: hidden;
+}
+
 .nav-tabs.nav-justified {
 	width: 95%;
 	margin: 0 auto;
@@ -67,13 +73,13 @@ p {
 	border-bottom: 0;
 }
 
-.home {
+.munHome {
 	position: relative;
 	top: 0;
 	right: 0;
 }
 
-.logo-linhas {
+.munHome-logo {
 	position: absolute;
 	bottom: 5%;
 	right: 30%;
@@ -86,36 +92,125 @@ p {
 	right: 40px;
 }
 
-#tab-section > .row {
-	background-color: #B7A298;
-	margin-left: -15px;
-	margin-right: -15px;
-	padding-top: 50px;
-
+.munTheme {
+	background-color: #EFE3DA;
+	color: #754551;
+	padding: 100px 0;
 }
 
-#tabs li a {
-	border-radius: 0;
-	background-color: transparent;
-	border: 0;
+.munTheme-img {
+	margin-top: 20px;
 }
 
-.tab-content {
-	background-color: #E5DFDA;
-	padding: 70px 50px;
-	margin:50px;
+.munWhen {
+	background-color: #DDCAC5;
+	color: #754551;
 	text-align: center;
-	font-size: 1.6rem;
+	padding: 30px 0;
 }
 
-.tab-pane p {
+.munWhen h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 19px;
+}
+
+.munWhen-subscript {
+	font-size: 14px;
+}
+
+.munWhen-separator {
+	display: inline-block;
+	width: 7px;
+	height: 7px;
+	border-radius: 7px;
+	background-color: #754551;
+	margin: 0 20px 7px 20px;
+}
+
+.munClick {
+	background-color: #C9B5AD;
+	color: #FFFFFF;
+	padding: 40px 0;
+}
+
+.munClick-content {
+	max-width: 700px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.munClick-title {
+	font-size: 16px;
+	color: #754551;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+.munClick-img {
+	width: 90px;
+	margin: 0 auto;
+}
+
+.munClick-link {
+	text-decoration: none;
+	color: inherit;
+	font-size: 17px;
+	transition: all 0.5s ease;
+}
+
+.munClick-link:hover {
+	padding: 0;
+	color: #754551;
+	transition: all 0.5s ease;
+}
+
+.munClick-link:focus {
+	padding: 0;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.munVideo {
+	background-color: #B7A298;
+	padding: 70px 0;
+}
+
+.munDates {
+	background-color: #96837C;
+	color: #FFFFFF;
+	padding: 100px 0;
+	text-align: center;
+}
+
+.munDates-content {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.munDates p {
 	font-family: "DK", Arial, sans-serif;
 }
 
-.tab-pane p:first-of-type {
-	border: 1px solid black;
-	margin: 0 55px 15px 55px;
-	line-height: 2rem;
+.munDates-date {
+	width: 55px;
+	height: 55px;
+	border: 1px solid #754551;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	padding-top: 2px;
+}
+
+.munDates-fee {
+	color: #754551;
+	transition: all 0.3s ease;
+}
+
+.munDates-fee:hover {
+	padding: 5px;
+	background-color: #754551;
+	color: #FFFFFF;
+	transition: all 0.3s ease;
 }
 
 /*
@@ -1428,7 +1523,12 @@ td:first-child {
 /* Media queries */
 
 @media (max-width: 992px) {
-
+	.munDates {
+		padding: 20px 0 40px 0;
+	}
+	.munDates-date {
+		margin-top: 50px;
+	}
 	#s1 > h1 {
 		font-size: 7rem;
 	}
@@ -1457,10 +1557,18 @@ td:first-child {
 		left: 19%;
 	}
 
+	.logo-footer {
+		display: none;	
+	}
+
 }
 
 @media (max-width:767px) {
-
+	.munTheme-img {
+		max-width: 80%;
+		margin: 0 auto;
+		margin-bottom: 50px;
+	}
 	#s1 {
 		margin-top: 70px;
 		padding-top: 50px;
@@ -1532,6 +1640,12 @@ td:first-child {
 }
 
 @media (max-width:480px) {
+	.munTheme {
+		padding: 70px 0;
+	}
+	.munTheme-img {
+		display: none;
+	}
 	.content {
 		padding-left: 7%;
 		padding-right: 7%;

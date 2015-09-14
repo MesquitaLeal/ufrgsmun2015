@@ -1,69 +1,95 @@
 <!-- Entrada seção -->
-<div class="row home">
-	<img class="img-responsive imagem-fundo" src="images/img-home.png" alt="" />
-	<img class="img-responsive logo-linhas" src="images/logo_linhas.png" alt="" />
+<div class="row munome">
+	<img class="img-responsive" src="images/img-home.png" />
+	<img class="img-responsive munHome-logo" src="images/logo_linhas.png" alt="Logotipo do Evento" />
 </div>
 
-<section id="tab-section">
-	<div class="row" >
-		<ul id="tabs" class="nav nav-tabs nav-justified" data-tabs="tabs">
-	        <li class="active"><a href="#promo" data-toggle="tab"><img src="images/video_purple.png" class="img-purple"/><br/><span>UFRGSMUN 2015</span></a></li>
-	        <li><a href="#apply" data-toggle="tab"><img src="images/apply_purple.png" /><br/><span>Apply</span></a></li>
-	        <li><a href="#guides" data-toggle="tab"><img src="images/guides_purple.png" /><br/><span>Study guides</span></a></li>
-	        <li><a href="#country" data-toggle="tab"><img src="images/matrix_purple.png" /><br/><span>Country Matrix</span></a></li>
-	        <li><a href="#dates" data-toggle="tab"><img src="images/dates_purple.png" /><br/><span>Important dates</span></a></li>
-	    </ul>
-		<div id="my-tab-content" class="tab-content">
-	        <div class="tab-pane active" id="promo">
-				<div class="row">
-					<div class="col-md-6">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/CnGOfH-iAmc?controls=1;showinfo=0;modestbranding=1" frameborder="0" allowfullscreen></iframe>
-					</div>
-					<div class="col-md-6">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/76aFwUroxu4?controls=1;showinfo=0;modestbranding=1" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>
-	        </div>
-	        <div class="tab-pane" id="apply">
-	            <h6>Soon</h6>
-	        </div>
-	        <div class="tab-pane" id="guides">
-				<h6>Soon</h6>
-	        </div>
-	        <div class="tab-pane" id="country">
-				<h6>You can check which countries are going to be simulated in which committee in our country/committee matrix. <br/><br/><a href="index.php?page=apply&section=countries">Click here</a></h6>
-	        </div>
-	        <div class="tab-pane" id="dates">
-				<div class="row">
-					<div class="col-md-2">
-						<p>jun<br />25</p>
-						<p>Registration opens for the <a href="files/Edital-de-Benefícios-UFRGSMUN-2015.pdf">Fee Waiver</a></p>
-					</div>
-					<div class="col-md-2">
-						<p>aug<br />08</p>
-						<p>Release of the Country Matrix</p>
-					</div>
-					<div class="col-md-2">
-						<p>aug<br />15</p>
-						<p>Registration opens for the FORM A/ ILC FORM / IPC FORM</p>
-					</div>
-					<div class="col-md-2">
-						<p>sep<br />30</p>
-						<p>Release of the Study Guides on the website</p>
-					</div>
-					<div class="col-md-2">
-						<p>oct<br />03</p>
-						<p>Registration opens for the FORM B</p>
-					</div>
-					<div class="col-md-2">
-						<p>oct<br />30</p>
-						<p>UFRGSMUN 2015</p>
-					</div>
-				</div>
-	        </div>
+<section class="munTheme">
+	<div class="row content">
+		<div class="col-sm-6">
+			<img src="images/logo_full.png" class="img-responsive munTheme-img"/>
+		</div>
+		<div class="col-sm-6">
+			<h3>Inspire change, be greater than yourself.</h3>
+			<p>This year’s motto aims to encourage participants to build a better country and a better world, by discussing topics which they can relate to current problems Brazil needs to address in its long search for autonomy and greater development. We hope this edition inspires you to act in the local and global level in order to not only helping the world to change, but also to inspire others to follow you. We must unite in order to improve the mechanisms we have, such as the UN system and regional forums. If we don’t evolve, we will not be able to address the new challenges posed to us in the 21st century. We hope this edition of UFRGSMUN inspires you to seek solutions and to discuss, in order to build a fairer world.</p>
 		</div>
 	</div>
 </section>
+
+<section class="munWhen">
+	<div class="row content">
+		<div class="col-lg-12">
+			<h3>Oct 30<span class="munWhen-subscript">th</span> - Nov 3<span class="munWhen-subscript">rd</span><span class="munWhen-separator"></span>Porto Alegre, RS<span class="munWhen-separator"></span>Brasil</h3>
+		</div>
+	</div>
+</section>
+
+<section class="munClick">
+	<div class="row munClick-content">
+		<div class="col-sm-4">
+			<a href="?page=apply&section=register" class="munClick-link">
+				<img src="images/apply_purple.png" class="img-responsive munClick-img" />
+				<h5 class="munClick-title">Apply</h5>
+				<p>Regular registration<br /> period is open until<br />September 20th</p>
+			</a>
+		</div>
+		<div class="col-sm-4">
+			<a href="#" class="munClick-link disabled">
+				<img src="images/guides_purple.png" class="img-responsive munClick-img" />
+				<h5 class="munClick-title">Study Guides</h5>
+				<p>This edition's<br/>Study Guides will<br/>be available soon</p>
+			</a>
+		</div>
+		<div class="col-sm-4">
+			<a href="?page=apply&section=countries" class="munClick-link">
+				<img src="images/matrix_purple.png" class="img-responsive munClick-img" />
+				<h5 class="munClick-title">Country Matrix</h5>
+				<p>Check out our<br/>country/committee<br/>matrix</p>
+			</a>
+		</div>
+	</div>
+</section>
+
+<section class="munVideo">
+	<div class="row content">
+		<div class="col-md-6">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/CnGOfH-iAmc?controls=1;showinfo=0;modestbranding=1" frameborder="0" allowfullscreen></iframe>
+		</div>
+		<div class="col-md-6">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/76aFwUroxu4?controls=1;showinfo=0;modestbranding=1" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+</section>
+
+<section class="munDates">
+	<div class="row munDates-content">
+		<div class="col-md-2 col-sm-4">
+			<p class="munDates-date">aug<br />08</p>
+			<p>Country<br/>Matrix Release</p>
+		</div>
+		<div class="col-md-2 col-sm-4">
+			<p class="munDates-date">aug<br />15</p>
+			<p>Applications<br/>opening</p>
+		</div>
+		<div class="col-md-2 col-sm-4">
+			<p class="munDates-date">sep<br />17</p>
+			<p><a href="Edital-Extraordinário-de-Benefícios-UFRGSMUN-2015.pdf" class="munDates-fee">Fee Waiver</a><br/>deadline</p>
+		</div>
+		<div class="col-md-2 col-sm-4">
+			<p class="munDates-date">sep<br />30</p>
+			<p>Study Guides<br/>Release</p>
+		</div>
+		<div class="col-md-2 col-sm-4">
+			<p class="munDates-date">oct<br />03</p>
+			<p>Form B<br />registration opens</p>
+		</div>
+		<div class="col-md-2 col-sm-4">
+			<p class="munDates-date">oct<br />30</p>
+			<p>UFRGSMUN<br/>First Day</p>
+		</div>
+	</div>
+</section>
+
 
 <script type="text/javascript">
     jQuery(document).ready(function ($) {
