@@ -12,7 +12,7 @@
 </svg>-->
     <div class="row beige-50 section-p content">
         <div class="col-lg-12">
-            <p class="center">Registering for UFRGSMUN 2014 is really easy.<br/>You just have to follow a few steps.</p>
+            <p class="center">Registering for UFRGSMUN 2015 is really easy.<br/>You just have to follow a few steps.</p>
         </div>
     </div>
 </div>

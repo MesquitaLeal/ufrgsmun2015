@@ -33,11 +33,11 @@
                 <p>
                     Total fees per delegate for regular registration:
                     <br/>Full amount: R$ 130.00
-                    <br/>Payment deadline: September 26th
+                    <br/>Payment deadline: 5 days after filling Form A
                     <br/>Two installments: R$ 140.00
-                    <br/>First payment deadline: September 26th
+                    <br/>First payment deadline: 5 days after filling Form A
                     <br/>Fee: R$ 70.00
-                    <br/>Second payment deadline: October 15th
+                    <br/>Second payment deadline: October 10th
                     <br/>Fee: R$ 70.00
                 </p>
                 <p>
