@@ -64,5 +64,8 @@
         <div class="col-sm-3">
             <a href="http://www.larentis.com.br/" class="sponsor-logo"><img src="images/larentis.png"></a>
         </div>
+        <div class="col-sm-3">
+            <a href="http://unicrio.org.br/" class="sponsor-logo"><img src="images/unic.jpg"></a>
+        </div>
     </div>
 </div>
