@@ -279,6 +279,10 @@ Background Images
 	background-image: url('../images/policies.png');
 }
 
+#schedule {
+	background-image: url('../images/schedule.png');
+}
+
 #sponsors {
 	background-image: url('../images/sponsors.png');
 }
@@ -337,6 +341,37 @@ Apply Section
 .beige a {
 	color: rgb(240,217,193);
 }
+
+/*
+======================================
+Conference Section
+====================================== 
+*/
+
+.scheduleRow-2nd {
+	padding-bottom: 40px;
+}
+
+.schedule-box {
+	border: 1px solid #A2ABAA;
+	padding: 10px 30px;
+	font-size: 16px;
+}
+
+.schedule-weekDay {
+	font-size: 35px;
+}
+
+.schedule-date {
+	font-size: 23px;
+	margin-bottom: 40px;
+}
+
+.schedule-description {
+	position: absolute;
+	left: 150px;
+}
+
 
 /*
 ======================================
@@ -1522,6 +1557,22 @@ td:first-child {
 
 /* Media queries */
 
+@media (max-width: 1199px) {
+	.scheduleRow-2nd {
+		margin-top: -25px;
+		padding-bottom: 10px;
+	}
+	.schedule-box {
+		max-width: 350px;
+		margin: 0 auto;
+		margin-bottom: 40px;
+	}
+	.schedule-description {
+		position: relative;
+		left: 10px;
+	}
+}
+
 @media (max-width: 992px) {
 	.munDates {
 		padding: 20px 0 40px 0;
@@ -1536,11 +1587,6 @@ td:first-child {
 	#s1 > h1:last-child {
 		font-size: 2.2rem;
 	}
-
-	#schedule .hour .col-md-2 p {
-		font-weight: bold;
-	}
-
 	.navbar-brand {
 		left:5px;
 	}
