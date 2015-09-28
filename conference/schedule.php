@@ -40,7 +40,7 @@
                 <p>14:00 — 16:30 <span class="schedule-description">2nd Session </span></p>
                 <p>16:30 — 17:00 <span class="schedule-description">Coffee Break </span></p>
                 <p>17:00 — 19:00 <span class="schedule-description">3rd Session </span></p>
-                <p>20:00 — 21:45 <span class="schedule-description">Committee Dinners </span></p>
+                <p>19:30 — 21:45 <span class="schedule-description">Committee Dinners </span></p>
                 <p>22:00 — 00:30 <span class="schedule-description">Talent Show</span></p>
             </div>
         </div>
@@ -48,8 +48,8 @@
             <div class="schedule-box">
                 <h3 class="schedule-weekDay">Sunday</h3>
                 <h4 class="schedule-date">(November, 1st)</h4>
-                <p>08:00 — 09:00 <span class="schedule-description">Head Delegates Meeting </span></p>
-                <p>09:00 — 12:30 <span class="schedule-description">4th Session </span></p>
+                <p>08:30 — 09:30 <span class="schedule-description">Head Delegates Meeting </span></p>
+                <p>09:30 — 12:30 <span class="schedule-description">4th Session </span></p>
                 <p>14:00 — 16:30 <span class="schedule-description">5th Session </span></p>
                 <p>16:30 — 17:00 <span class="schedule-description">Coffee Break </span></p>
                 <p>17:00 — 19:30 <span class="schedule-description">6th Session </span></p>
@@ -60,14 +60,13 @@
     <div class="row gray content scheduleRow-2nd">
         <div class="col-lg-2"></div>
         <div class="col-lg-4">
-            <div class="schedule-box">
+            <div class="schedule-box schedule-boxBigger">
                 <h3 class="schedule-weekDay">Monday</h3>
                 <h4 class="schedule-date">(November, 2nd)</h4>
-                <p>10:00 — 12:00 <span class="schedule-description">Cultural Tour </span></p>
                 <p>13:30 — 16:00 <span class="schedule-description">7th Session </span></p>
                 <p>16:00 — 16:30 <span class="schedule-description">Coffee Break </span></p>
                 <p>16:30 — 18:45 <span class="schedule-description">8th Session </span></p>
-                <p>19:30 — 01:00 <span class="schedule-description">Barbecue and Soccer Cup</span></p>
+                <p>19:30 — 00:30 <span class="schedule-description">Barbecue and Soccer Cup</span></p>
             </div>
         </div>
         <div class="col-lg-4">
@@ -77,8 +76,8 @@
                 <p>09:30 — 10:30 <span class="schedule-description">Head Delegates Meeting </span></p>
                 <p>10:30 — 12:30 <span class="schedule-description">9th Session </span></p>
                 <p>14:00 — 16:00 <span class="schedule-description">10th Session (voting) </span></p>
-                <p>17:30 — 18:30 <span class="schedule-description">Closing Ceremony </span></p>
-                <p>20:30 — 01:30 <span class="schedule-description">Farewell Party</span></p>
+                <p>17:30 — 19:00 <span class="schedule-description">Closing Ceremony </span></p>
+                <p>20:00 — 01:30 <span class="schedule-description">Farewell Party</span></p>
             </div>
         </div>
         <div class="col-lg-2"></div>

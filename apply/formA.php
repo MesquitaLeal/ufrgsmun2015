@@ -12,7 +12,7 @@
 </svg>-->
     <div class="row beige-50 section-p content">
         <div class="col-lg-12">
-            <iframe src="https://docs.google.com/forms/d/1iSizLJ8BZ_ETq5CG8Rgh8RGyBcY40IZaNvRPl0IXRBA/viewform?embedded=true" width="2000" height="4600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            <iframe src="https://docs.google.com/forms/d/1iSizLJ8BZ_ETq5CG8Rgh8RGyBcY40IZaNvRPl0IXRBA/viewform?embedded=true" width="2000" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
         </div>
     </div>
 </div>
