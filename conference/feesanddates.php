@@ -28,7 +28,7 @@
                 <p>
                     Dates on the forms:
                     <br/>Form A: from August 15th through September 20th
-                    <br/>Form B: from September 27th through October 9th
+                    <br/>Form B: from October 3rd through October 9th
                 </p>
                 <p>
                     Total fees per delegate for regular registration:
@@ -41,10 +41,10 @@
                     <br/>Fee: R$ 70.00
                 </p>
                 <p>
-                    NOTE: Delegates who register on time, but do not succeed in making payments on time as 
-                    well will be charged R$ 10.00 for each delayed payment. For example, if your delegation 
-                    has decided to pay in two installments but fails to pay R$ 70.00 until September 26th 
-                    you will have to pay R$ 80.00, but the second payment remains unaltered as long as it 
+                    NOTE: Delegates who register on time, but do not succeed in making payments on time as
+                    well will be charged R$ 10.00 for each delayed payment. For example, if your delegation
+                    has decided to pay in two installments but fails to pay R$ 70.00 until September 26th
+                    you will have to pay R$ 80.00, but the second payment remains unaltered as long as it
                     is paid on time. The same rule applies for payments made in full amount.
                 </p>
             </div>
@@ -53,7 +53,7 @@
             <div class="registration-box">
                 <h3>Late Registration Period</h3>
                 <p>
-                    Late registration: from September 27th through October 10th
+                    Late registration: from October 3rd through October 10th
                     <br/>Total fee per delegate for late registration:
                 </p>
                 <p>
@@ -69,10 +69,10 @@
             <br/>
             <p>
                 If you have any question or special needs, feel free to contact us: ufrgsmun@gmail.com or ufrgsmun@ufrgs.br!
-            </p> 
+            </p>
             <p>
                 NOTE: In this year’s edition, once more, there will not be a Delegation Fee!
-                <br/>NOTE: If you have proof of PROUNI scholarship or similar at your university, there will be a chance to apply for our Fee Waiver until August, 2nd. 
+                <br/>NOTE: If you have proof of PROUNI scholarship or similar at your university, there will be a chance to apply for our Fee Waiver until August, 2nd.
             </p>
         </div>
     </div>
