@@ -104,10 +104,9 @@
                         Preparation <i class="fa fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Soon</a></li>
+                        <li><a href="?page=preparation&section=study">Study Guides</a></li>
                         <!--<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
                         <li><a href="?page=preparation&section=logistics">Logistics</a></li>
-                        <li><a href="?page=preparation&section=study">Study Guides</a></li>
                         <li><a href="?page=preparation&section=handbook">Handbook</a></li>
                         <li><a href="?page=preparation&section=easyHandbook">Easy Handbook</a></li>
                         <li><a href="?page=preparation&section=paper">Position Paper</a></li>

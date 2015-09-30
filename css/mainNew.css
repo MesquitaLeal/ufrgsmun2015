@@ -216,7 +216,7 @@ section {
 /*
 ======================================
 Background Images
-====================================== 
+======================================
 */
 
 .background {
@@ -228,19 +228,19 @@ Background Images
 }
 
 #apec {
-	background-image: url('../images/apec.png');	
+	background-image: url('../images/apec.png');
 }
 
 #cjtf {
-	background-image: url('../images/cjtf.png');	
+	background-image: url('../images/cjtf.png');
 }
 
 #cosiplan {
-	background-image: url('../images/cosiplan.png');	
+	background-image: url('../images/cosiplan.png');
 }
 
 #disec {
-	background-image: url('../images/disec.png');	
+	background-image: url('../images/disec.png');
 }
 
 #feesanddates {
@@ -248,27 +248,27 @@ Background Images
 }
 
 #ilc {
-	background-image: url('../images/ilc.png');	
+	background-image: url('../images/ilc.png');
 }
 
 #ipc {
-	background-image: url('../images/ipc.png');	
+	background-image: url('../images/ipc.png');
 }
 
 #location {
-	background-image: url('../images/location.png');	
+	background-image: url('../images/location.png');
 }
 
 #matrix {
-	background-image: url('../images/matrix.png');	
+	background-image: url('../images/matrix.png');
 }
 
 #meet {
-	background-image: url('../images/meet.png');	
+	background-image: url('../images/meet.png');
 }
 
 #mun {
-	background-image: url('../images/mun.png');	
+	background-image: url('../images/mun.png');
 }
 
 #partners {
@@ -287,16 +287,20 @@ Background Images
 	background-image: url('../images/sponsors.png');
 }
 
+#studyGuide {
+	background-image: url('../images/study_guide.png');
+}
+
 #register {
 	background-image: url('../images/register.png');
 }
 
 #uacps {
-	background-image: url('../images/uacps.png');	
+	background-image: url('../images/uacps.png');
 }
 
 #unhr {
-	background-image: url('../images/unhr.png');	
+	background-image: url('../images/unhr.png');
 }
 
 #unsc {
@@ -306,7 +310,7 @@ Background Images
 /*
 ======================================
 Apply Section
-====================================== 
+======================================
 */
 
 .step-title {
@@ -345,7 +349,7 @@ Apply Section
 /*
 ======================================
 Conference Section
-====================================== 
+======================================
 */
 
 .scheduleRow-2nd {
@@ -380,7 +384,7 @@ Conference Section
 /*
 ======================================
 Effect 4: bottom border enlarge
-====================================== 
+======================================
 */
 
 .cl-effect-4 a {
@@ -648,8 +652,8 @@ embed {
 	background-color: #E4CEB7;
 }
 
-.beige-light h2, 
-.beige-light h3, 
+.beige-light h2,
+.beige-light h3,
 .beige-light p {
 	color: #565656;
 }
@@ -702,6 +706,18 @@ embed {
 
 .orange-70 {
 	background-color: rgba(201, 114, 46, 0.7);
+}
+
+.brown {
+	background-color: rgba(150,131,125,1);
+}
+
+.brown-50 {
+	background-color: rgba(150,131,125,0.93);
+}
+
+.brown-70 {
+	background-color: rgba(150,131,125,0.7);
 }
 
 .content {
@@ -1066,6 +1082,40 @@ embed {
 }
 
 .sponsor-logo:hover {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.studyGuide-logo {
+	width: 170px;
+	height: 170px;
+	background-color: #FFFFFF;
+	display: inline-block;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.studyGuide-logo:before {
+	content: '';
+	border: 1px solid #AF9A91;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-top: -15px;
+	margin-left: -15px;
+}
+
+.studyGuide-logo img {
+	width: 160px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.studyGuide-logo:hover {
 	padding-left: 0;
 	padding-right: 0;
 }
@@ -1473,7 +1523,7 @@ td:first-child {
 
 .table > tbody > tr > td:nth-child(1) {
 	width:300px;
-	
+
 }
 
 .table > tbody > tr:nth-child(odd) > th,
@@ -1608,7 +1658,7 @@ td:first-child {
 	}
 
 	.logo-footer {
-		display: none;	
+		display: none;
 	}
 
 }
