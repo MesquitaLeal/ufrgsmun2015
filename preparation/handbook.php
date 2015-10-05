@@ -1,17 +1,34 @@
-<div class="committees">
-    <div class="subpage-title">
-        <h6>Home <i class="fa fa-angle-double-right"></i> Preparation <i class="fa fa-angle-double-right"></i> Handbook</h6>
-    </div>
-    <div class="row blue content">
-        <div class="col-lg-12">
-            <section class="subsection-text">
-                <h5>Handbook</h5>
-                <p style="text-align:center"><a href="../2014/files/handbook.pdf">Click here</a> to download the Handbook</p>
-                <br/>
-                <iframe src='https://onedrive.live.com/embed?cid=44A0DD5D2EA3F223&resid=44A0DD5D2EA3F223%21284&authkey=AAROUxpczfsyHKM&em=2&wdStartOn=1' width='476px' height='1100px' frameborder='0'>Este é um PDF do <a target='_blank' href='http://office.com'>Microsoft Office</a> incorporado, da plataforma <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
-            </section>
+<div id="studyGuide" class="background">
+    <div class="row brown-70 content">
+        <div class="breadcrumb">
+            <p>home > preparation > handbook</p>
+        </div>
+        <div class="section-title">
+            <h2>Handbook</h2>
         </div>
     </div>
+    <!--<div class="row brown-50 section-p content">
+        <p>
+            In order to stimulate high level debates, UFRGSMUN staff publishes a set of study
+            guides, each one covering one topic or topics to be discussed during the simulations.
+            These guides are academic documents which should give delegates a basic preparation
+            for the simulation. Delegates are extremely encouraged, though, to further research
+            their committees’ topic before the event starts.
+        </p>
+        <br/>
+        <p>Click on the committees below to acess the study guides.</p>
+    </div>-->
+</div>
+<div class="no-margin">
+    <div class="row brown section-p content">
+        <div class="col-sm-4">
 
+        </div>
+        <div class="col-sm-4">
+            <a href="files/handbook.pdf" class="studyGuide-logo"><img src="images/handbook.png"></a>
+        </div>
+        <div class="col-sm-4">
 
+        </div>
+    </div>
 </div>

@@ -21,6 +21,14 @@
             <a href="https://www.facebook.com/lena.s.alves.1?ref=br_rs_WyJrZXl3b3Jkc190b3AiXQ%3D%3D" class="sponsor-logo"><img src="images/lena.png"></a>
         </div>
     </div>
+    <div class="row purple-50 section-p content">
+        <div class="col-sm-3">
+            <a href="http://www.ranchodocupim.com.br/" class="sponsor-logo"><img src="images/ranchocupim.png"></a>
+        </div>
+        <div class="col-sm-3">
+            <a href="http://www.salebrasa.com.br/" class="sponsor-logo"><img src="images/salebrasa.jpg"></a>
+        </div>
+    </div>
 </div>
 <div class="no-margin">
     <div class="row purple section-p content">
@@ -72,12 +80,6 @@
     <div class="row purple section-p content">
         <div class="col-sm-3">
             <a href="http://www.larentis.com.br/" class="sponsor-logo"><img src="images/larentis.png"></a>
-        </div>
-        <div class="col-sm-3">
-            <a href="http://www.ranchodocupim.com.br/" class="sponsor-logo"><img src="images/ranchocupim.png"></a>
-        </div>
-        <div class="col-sm-3">
-            <a href="http://www.salebrasa.com.br/" class="sponsor-logo"><img src="images/salebrasa.jpg"></a>
         </div>
     </div>
 </div>
