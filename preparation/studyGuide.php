@@ -22,40 +22,40 @@
 <div class="no-margin">
     <div class="row brown section-p content">
         <div class="col-sm-3">
-            <a href="https://www.facebook.com/ceri.ufrgs" class="studyGuide-logo"><img src="images/full_guide.png"></a>
+            <a href="files/guia.pdf" class="studyGuide-logo"><img src="images/full_guide.png"></a>
         </div>
         <div class="col-sm-3">
-            <a href="http://www.ufrgs.br/ppgeei/" class="studyGuide-logo"><img src="images/apec_guide.png"></a>
+            <a href="files/apec.pdf" class="studyGuide-logo"><img src="images/apec_guide.png"></a>
         </div>
         <div class="col-sm-3">
-            <a href="http://www.ufrgs.br/nerint/" class="studyGuide-logo"><img src="images/cjtf_guide.png"></a>
+            <a href="files/cjtf.pdf" class="studyGuide-logo"><img src="images/cjtf_guide.png"></a>
         </div>
         <div class="col-sm-3">
-            <a href="http://www.ufrgs.br/graficaufrgs/" class="studyGuide-logo"><img src="images/cosiplan_guide.png"></a>
-        </div>
-    </div>
-    <div class="row brown section-p content">
-        <div class="col-sm-3">
-            <a href="http://www.orquidea.com.br/" class="studyGuide-logo"><img src="images/disec_guide.png"></a>
-        </div>
-        <div class="col-sm-3">
-            <a href="http://cafedomercado.com.br/" class="studyGuide-logo"><img src="images/ilc_guide.png"></a>
-        </div>
-        <div class="col-sm-3">
-            <a href="http://www.dacolonia.com.br/" class="studyGuide-logo"><img src="images/ipc_guide.png"></a>
-        </div>
-        <div class="col-sm-3">
-            <a href="http://www.aguadocampobranco.com.br/" class="studyGuide-logo"><img src="images/uacps_guide.png"></a>
+            <a href="files/cosiplan.pdf" class="studyGuide-logo"><img src="images/cosiplan_guide.png"></a>
         </div>
     </div>
     <div class="row brown section-p content">
         <div class="col-sm-3">
+            <a href="files/disec.pdf" class="studyGuide-logo"><img src="images/disec_guide.png"></a>
         </div>
         <div class="col-sm-3">
-            <a href="http://www.kas.de/brasilien/pt/" class="studyGuide-logo"><img src="images/unhrc_guide.png"></a>
+            <a href="files/ilc.pdf" class="studyGuide-logo"><img src="images/ilc_guide.png"></a>
         </div>
         <div class="col-sm-3">
-            <a href="http://www.audiplo.com.br/home/" class="studyGuide-logo"><img src="images/unsc_guide.png"></a>
+            <a href="files/ipc.pdf" class="studyGuide-logo"><img src="images/ipc_guide.png"></a>
+        </div>
+        <div class="col-sm-3">
+            <a href="files/uacps.pdf" class="studyGuide-logo"><img src="images/uacps_guide.png"></a>
+        </div>
+    </div>
+    <div class="row brown section-p content">
+        <div class="col-sm-3">
+        </div>
+        <div class="col-sm-3">
+            <a href="files/unhrc.pdf" class="studyGuide-logo"><img src="images/unhrc_guide.png"></a>
+        </div>
+        <div class="col-sm-3">
+            <a href="files/unsc.pdf" class="studyGuide-logo"><img src="images/unsc_guide.png"></a>
         </div>
         <div class="col-sm-3">
         </div>
