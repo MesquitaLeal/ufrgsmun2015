@@ -227,6 +227,10 @@ Background Images
 	overflow: hidden;
 }
 
+#accommodation {
+	background-image: url('../images/accommodation.png');
+}
+
 #apec {
 	background-image: url('../images/apec.png');
 }
@@ -380,6 +384,42 @@ Conference Section
 	left: 150px;
 }
 
+.mainAccommodation-row,
+.secondaryAccommodation-row {
+	padding-bottom: 80px;
+	position: relative;
+}
+
+.mainAccommodation-row {
+	padding-top: 40px;
+}
+
+.mainAccommodation-address {
+	text-align: right;
+	border-top: 1px solid #FFF;
+	margin-top: 50px;
+	padding-top: 50px;
+}
+
+.secondaryAccommodation-column {
+
+}
+
+.secondaryAccommodation-column iframe {
+	position: relative;
+	top: 200px;
+}
+
+.secondaryAccommodation-rates {
+	margin-top: -5px;
+}
+
+.secondaryAccommodation-address {
+	text-align: right;
+	border-right: 1px solid #FFF;
+	padding-right: 15px;
+	margin-top: 10px;
+}
 
 /*
 ======================================
@@ -723,6 +763,11 @@ embed {
 .content {
 	padding-left:  70px;
 	padding-right:  70px;
+}
+
+.content-medium {
+	width: 80%;
+	margin: 0 auto;
 }
 
 .content-smaller {
