@@ -60,7 +60,8 @@
                         <li><a href="?page=conference&section=feesanddates">Fees and Dates</a></li>
                         <li><a href="?page=conference&section=schedule">Schedule</a></li>
                         <li><a href="?page=conference&section=location">Location</a></li>
-                        <!--<li><a href="?page=conference&section=accommodation">Accommodation</a></li>
+                        <li><a href="?page=conference&section=accommodation">Accommodation</a></li>
+                        <!--
                         <li><a href="?page=conference&section=socialevents">Social Events</a></li>-->
                     </ul>
                 </li>

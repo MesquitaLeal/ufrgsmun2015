@@ -228,7 +228,7 @@ Background Images
 }
 
 #accommodation {
-	background-image: url('../images/accommodation.png');
+	background-image: url('../images/accommodation.jpg');
 }
 
 #apec {
@@ -394,20 +394,27 @@ Conference Section
 	padding-top: 40px;
 }
 
+.mainAccommodation-box {
+	display: inline-block;
+	width: 100%;
+	padding: 15px 0 5px 0;
+	border: 1px solid #FFF;
+}
+
 .mainAccommodation-address {
 	text-align: right;
 	border-top: 1px solid #FFF;
-	margin-top: 50px;
-	padding-top: 50px;
+	margin-top: 40px;
+	padding-top: 40px;
 }
 
-.secondaryAccommodation-column {
-
+.secondaryAccommodation-header {
+	position: absolute;
 }
 
-.secondaryAccommodation-column iframe {
+.secondaryAccommodation-row iframe {
 	position: relative;
-	top: 200px;
+	top: 140px;
 }
 
 .secondaryAccommodation-rates {
@@ -418,7 +425,7 @@ Conference Section
 	text-align: right;
 	border-right: 1px solid #FFF;
 	padding-right: 15px;
-	margin-top: 10px;
+	margin-top: 150px;
 }
 
 /*
