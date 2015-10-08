@@ -107,11 +107,11 @@
                     <ul class="dropdown-menu">
                         <li><a href="?page=preparation&section=study">Study Guides</a></li>
                         <li><a href="?page=preparation&section=handbook">Handbook</a></li>
+                        <li><a href="?page=preparation&section=paper">Position Paper</a></li>
+                        <li><a href="?page=preparation&section=award">Award Policy</a></li>
                         <!--<li><a href="?page=preparation&section=procedures">Rules of Procedures</a></li>
                         <li><a href="?page=preparation&section=logistics">Logistics</a></li>
                         <li><a href="?page=preparation&section=easyHandbook">Easy Handbook</a></li>
-                        <li><a href="?page=preparation&section=paper">Position Paper</a></li>
-                        <li><a href="?page=preparation&section=award">Award Policy</a></li>
                         <li><a href="?page=preparation&section=links">Useful links</a></li>-->
                     </ul>
                 </li>

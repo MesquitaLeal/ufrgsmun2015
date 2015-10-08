@@ -36,6 +36,16 @@ p {
 	font-family: "Mesmerize", Arial, sans serif;
 }
 
+a {
+	text-decoration: none;
+	color: #D6C5AA;
+}
+
+a:hover {
+	color: #D6C5AA;
+	padding: none;
+}
+
 section {
 	margin-left: -15px;
 	margin-right: -15px;
@@ -1170,6 +1180,12 @@ embed {
 .studyGuide-logo:hover {
 	padding-left: 0;
 	padding-right: 0;
+}
+
+.two-columns {
+	-webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
 }
 
 .no-margin {
