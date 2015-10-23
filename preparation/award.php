@@ -1,4 +1,4 @@
-<div class="background" id="policies">
+<div class="background" id="award">
     <div class="row brown-70 content">
         <div class="breadcrumb">
             <p>home > committees > award policy</p>

@@ -34,7 +34,7 @@
 			</a>
 		</div>
 		<div class="col-sm-4">
-			<a href="#" class="munClick-link disabled">
+			<a href="?page=preparation&section=study" class="munClick-link disabled">
 				<img src="images/guides_purple.png" class="img-responsive munClick-img" />
 				<h5 class="munClick-title">Study Guides</h5>
 				<p>This edition's<br/>Study Guides will<br/>be available soon</p>

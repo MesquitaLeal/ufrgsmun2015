@@ -1,53 +1,76 @@
-<div class="subpage-title">
-    <h6>Home <i class="fa fa-angle-double-right"></i> About <i class="fa fa-angle-double-right"></i> Our history</h6>
-</div>
-
-<div class="blue content center">
-    <div class="row section-header">
-        <h5>Our History</h5>
-        <p>Click on the images below to learn more about each UFRGSMUN edition</p>
-    </div>
-    <?php
-        include 'about/years.php';
-    ?>
-    <?php foreach ($history as $years => $year) :?>
-        <?php three_column($years-2003) ;?>
-        <div class="col-md-4 modal-call">
-            <div class="circle" data-toggle="modal" data-target="<?php echo '#bs-example-modal-lg' . $years ;?>" style="background: url('<?php echo $year['image'];?>');"></div>
-            <p class="year"><?php echo $years;?></p>
-            <p><?php echo $year['name'];?></p>
+<div id="history" class="background">
+    <div class="row purple-70 content">
+        <div class="breadcrumb">
+            <p>home > about > our history</p>
         </div>
+        <div class="section-title">
+            <h2>Our History</h2>
+        </div>
+    </div>
+    <div class="row purple-50 section-p content">
+        <div class="col-lg-12">
+            <p class="center content-smaller">
+                In 2003, UFRGSMUN had its first edition. Every year after that a new edition of
+                UFRGS Model United Nations took place in Porto Alegre. Different themes, committees, staff...
+                all dedicated to organizing the best UFRGSMUN possible.<br/>Check out our previous editions' websites.
+            </p>
+        </div>
+    </div>
+</div>
+    <div class="row purple section-p content">
 
-        <?php foreach ($year as $key => $value) :?>
-            <div class="modal fade" id="<?php echo 'bs-example-modal-lg' . $years ;?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <?php
+            include 'about/years.php';
+            $history = array_reverse($history);
+            $change = FALSE;
+        ?>
+        <?php foreach ($history as $year) :?>
+            <article class="row timeline-row">
+                <div class="col-xs-6 timeline-left">
+                    <?php if ($change == FALSE) :?>
+                        <img src="<?php echo $year['image']?>" alt="" class="timeline-img" data-toggle="modal" data-target="<?php echo '#bs-example-modal-lg' . $year['year'] ;?>"/>
+                    <?php else :?>
+                        <p class="timeline-year"><?php echo $year['year'];?></p>
+                        <p class="timeline-edition"><?php echo $year['edition'];?></p>
+                        <p class="timeline-name"><?php echo $year['name'];?></p>
+                    <?php endif; ?>
+                </div>
+                <div class="col-xs-6 timeline-right">
+                    <?php if ($change == FALSE) :?>
+                        <p class="timeline-year"><?php echo $year['year'];?></p>
+                        <p class="timeline-edition"><?php echo $year['edition'];?></p>
+                        <p class="timeline-name"><?php echo $year['name'];?></p>
+                    <?php else :?>
+                        <img src="<?php echo $year['image']?>" alt="" class="timeline-img" data-toggle="modal" data-target="<?php echo '#bs-example-modal-lg' . $year['year'] ;?>"/>
+                    <?php endif; ?>
+                </div>
+            </article>
+            <?php
+                if ($change == FALSE)
+                    $change = TRUE;
+                else
+                    $change = FALSE;
+            ?>
+
+            <div class="modal fade" id="<?php echo 'bs-example-modal-lg' . $year['year'] ;?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                 <div class="modal-dialog modal-lg">
-                    <div class="modal-content">
+                    <div class="modal-content modal-timeline">
                         <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                            <div class="modal-circle" style="background: url('<?php echo $year['image'];?>'); background-color:rgba(0, 0, 0, 0.4);"></div>
-                            <h6 class="modal-title" id="myModalLabel"><?php echo $year['name'] ;?></h6>
+                            <!--<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <div data-toggle="modal" data-target="<?php //echo "#" . $organ . $profile . $item;?>"></div>-->
+                            <h6><?php echo $year['year'] ;?></h6>
                         </div>
                         <div class="modal-body">
-                            <p><?php echo $year['info'] ;?></p>
+                            <img src="<?php echo $year['image'];?>" class="modal-img">
+                            <h6 class="center" id="myModalLabel"><?php newName($year['name']);?></h6>
+                            <p class="modal-post"><?php websiteExist($year['website']) ;?></p>
+                            <p class="modal-bio"><?php echo $year['info'];?><p>
                         </div>
-                        <div class="modal-footer">
+                        <!--<div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                            <?php if ($year['website']!=''): ?>
-                            <a href="<?php echo $year['website'];?>" target="_blank">
-                                <button type="button" class="btn btn-primary">
-                                    Visit the website
-                                </button>
-                            </a>
-                            <?php else :?>
-                                <button type="button" class="btn btn-primary" disabled="disabled">
-                                    Website not available
-                                </button>
-                            <?php endif ;?>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>
         <?php endforeach; ?>
-    <?php endforeach; ?>
     </div>
-</div>

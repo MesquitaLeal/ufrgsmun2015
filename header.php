@@ -40,11 +40,9 @@
                     <ul class="dropdown-menu">
                         <li><a href="?page=about&section=mun">What is a MUN?</a></li>
                         <li><a href="?page=about&section=meet">Meet Us</a></li>
+                        <li><a href="?page=about&section=history">Our History</a></li>
                         <li><a href="?page=about&section=partners">Sponsors</a></li>
                         <li><a href="?page=about&section=projects">Partner Projects</a></li>
-                        <!--
-                        <li><a href="?page=about&section=history">Our History</a></li>
-                        -->
                     </ul>
                 </li>
                 <li class="dropdown">
